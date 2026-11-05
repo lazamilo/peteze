@@ -1,0 +1,5 @@
+# Commercial fonts (Maison Neue), not licensed for public redistribution
+assets/fonts/
+# Raw downloads from peteze.si, not used by the site
+assets/img/src/
+.DS_Store
